@@ -1,0 +1,902 @@
+[
+  {
+    "rank": 1,
+    "company": "Hilton",
+    "industry": "Hospitality",
+    "location": "McLean, VA, US",
+    "profile_url": "/certified-company/1000367",
+    "employee_quote": "The most unique thing about our hotel is the team. There are so many different people from different walks of life. All of whom are working towards one goal, servicing our guests. Each and every day they're all getting to know each other, their cultures, laughing and learning together. That is what makes me LOVE running the department and helping my team succeed. Sometimes we do not even speak the same languages but we teach other and end up communicating in whatever the preferred language is. Not many places will do that or have the opportunity to learn that.",
+    "image_url": "/images/profiles/1000367/company_image_1.webp"
+  },
+  {
+    "rank": 2,
+    "company": "Synchrony",
+    "industry": "Financial Services & Insurance",
+    "location": "Stamford, CT, US",
+    "profile_url": "/certified-company/1356805",
+    "employee_quote": "I love Synchrony!  I am very proud to be a part of an amazing company. Our One Synchrony mindset,  our culture and benefits sets us apart from other companies.  It is a GPTW with flexibility to WFH, Flex Fridays, Floating Holidays, all to make our lives better!",
+    "image_url": "/images/profiles/1356805/company_image_1.webp"
+  },
+  {
+    "rank": 3,
+    "company": "Cisco",
+    "industry": "Information Technology",
+    "location": "San Jose, CA, US",
+    "profile_url": "/certified-company/1000064",
+    "employee_quote": "Cisco supports its people. Cisco leadership always put our families and physical and mental health first. Cisco encourages its people to bring our true selves to work because we are more productive and happy people when we can share who we really are.",
+    "image_url": "/images/profiles/1000064/company_image_1.JPEG"
+  },
+  {
+    "rank": 4,
+    "company": "American Express",
+    "industry": "Financial Services & Insurance",
+    "location": "New York, NY, US",
+    "profile_url": "/certified-company/1000311",
+    "employee_quote": "Amex cares a lot about the wellbeing and psychological safety of employees. The colleague networks offer a wide variety of opportunities to embrace shared interests and interact/learn. Our parental leave policies are among the best in the US. This company cares about developing skills and helping people grow and advance their careers. I feel supported by leadership.",
+    "image_url": "/images/profiles/1000311/company_image_1.webp"
+  },
+  {
+    "rank": 5,
+    "company": "NVIDIA",
+    "industry": "Information Technology",
+    "location": "Santa Clara, CA, US",
+    "profile_url": "/certified-company/1000184",
+    "employee_quote": "The collaboration and closeness to any department is incredible. It feels like a startup with massive funding. The transparency top down is amazing. I love the clear communication and direction at every company meeting especially with our CEO.",
+    "image_url": "/images/profiles/1000184/company_image_1.webp"
+  },
+  {
+    "rank": 6,
+    "company": "Wegmans Food Markets, Inc.",
+    "industry": "Retail",
+    "location": "Rochester, NY, US",
+    "profile_url": "/certified-company/1000459",
+    "employee_quote": "I love the Wegmans Family, not just the folks named Wegman but the other 53,000 \"Family \" Members. People here truly care about one another, and that shows in our everyday interactions with each other and our customers. Every Day You Get Our Best is not just a slogan. There are so many opportunities and supports here that anyone who puts forth the effort can have a rewarding career.",
+    "image_url": "/images/profiles/1000459/company_image_1.webp"
+  },
+  {
+    "rank": 7,
+    "company": "Accenture",
+    "industry": "Professional Services",
+    "location": "NA - no US headquarters - random answer selected for state, AL, US",
+    "profile_url": "/certified-company/1000886",
+    "employee_quote": "Accenture provides the largest number of opportunities for training and development, involvement and participation in work and non-work related activities. This makes it one of the best places to work and grow when you are starting your career, as the lessons and experiences are beneficial across a lifetime.",
+    "image_url": "/images/profiles/1000886/company_image_1.webp"
+  },
+  {
+    "rank": 8,
+    "company": "Marriott International",
+    "industry": "Hospitality",
+    "location": "Bethesda, MD, US",
+    "profile_url": "/certified-company/1000152",
+    "employee_quote": "When I started working for Marriott 11 years ago, I remember meeting a lot of on property associates with decades of Marriott experience. I didn't understand how so many people could end up working for a company for 20-30 years with no desire to leave. It started to make more sense when I learned about the core company value of Putting People First, all people: our guests, our communities and our associates. From an associate perspective, Marriott makes it known that they want to internally hire for open positions and they truly give you the tools that you need to take those next steps.",
+    "image_url": "/images/profiles/1000152/company_image_1.webp"
+  },
+  {
+    "rank": 9,
+    "company": "Pinnacle Financial Partners",
+    "industry": "Financial Services & Insurance",
+    "location": "Nashville, TN, US",
+    "profile_url": "/certified-company/1204605",
+    "employee_quote": "Everyone pulls together in the same direction to ensure that clients, associates and the community are helped in the best way possible. A true family atmosphere where associates really care about each other and work hard for each other so we can reach our goals.",
+    "image_url": "/images/profiles/1204605/company_image_1.webp"
+  },
+  {
+    "rank": 10,
+    "company": "World Wide Technology",
+    "industry": "Information Technology",
+    "location": "St. Louis, MO, US",
+    "profile_url": "/certified-company/1100933",
+    "employee_quote": "I have never worked at a company before where management is so invested in our day to day, not to micromanage, but to see if there is anything that we think could be improved on or changed. They actually listen to that feedback and I have personally seen process improvements take place from the feedback we gave leadership.",
+    "image_url": "/images/profiles/1100933/company_image_1.webp"
+  },
+  {
+    "rank": 11,
+    "company": "Cadence",
+    "industry": "Information Technology",
+    "location": "San Jose, CA, US",
+    "profile_url": "/certified-company/1121485",
+    "employee_quote": "I love the concept of Global Recharge Day, it makes it easy for working caregivers to catch up on things they can't otherwise. I also like the health insurance options that Cadence offers.",
+    "image_url": "/images/profiles/1121485/company_image_1.webp"
+  },
+  {
+    "rank": 12,
+    "company": "Fannie Mae",
+    "industry": "Financial Services & Insurance",
+    "location": "Washington, DC, US",
+    "profile_url": "/certified-company/1000091",
+    "employee_quote": "Continued commitment to having a flexible work model where most employees can choose where to work (home or office or any combination thereof). Transparency in employee survey results and following up on feedback. Passion and energy for our purpose to ensure available and affordable quality housing.",
+    "image_url": "/images/profiles/1000091/company_image_1.webp"
+  },
+  {
+    "rank": 13,
+    "company": "Baird",
+    "industry": "Financial Services & Insurance",
+    "location": "Milwaukee, WI, US",
+    "profile_url": "/certified-company/1000217",
+    "employee_quote": "The culture is amazing. We strive to focus on our clients and our shareholders (who are our fellow employees). I wish I had found this place a lot sooner. Management does what they say they are going to do. There are no internal politics. Anyone can find a great career here. People are also encouraged to improve themselves and elevate. The training is amazing.",
+    "image_url": "/images/profiles/1000217/company_image_1.webp"
+  },
+  {
+    "rank": 14,
+    "company": "Power Home Remodeling",
+    "industry": "Construction",
+    "location": "Chester, PA, US",
+    "profile_url": "/certified-company/1221006",
+    "employee_quote": "Having only been here a year, I am blown away by how much this company cares about its people. From day one, I knew this was a unique place. The company goes above and beyond and truly lives for people over profits. I am privy to how decisions are made, and they are also made with a people first mentality. I have worked for a number of companies that are not this way, and could never imagine leaving here. Great benefits, growing company, tremendous opportunity. Wish I found it a long time ago!",
+    "image_url": "/images/profiles/1221006/company_image_1.webp"
+  },
+  {
+    "rank": 15,
+    "company": "Delta Air Lines",
+    "industry": "Transportation",
+    "location": "Atlanta, GA, US",
+    "profile_url": "/certified-company/1120577",
+    "employee_quote": "Delta provides an amazing place to develop a career, not just a job. People care for each other here and push each other to be better every day. When an employee hits a personal or family challenge, the company steps up and does right by them. My family experienced a medical issue and the support and care that Delta provided to help us deal with the medical issue went above and beyond what was required or normal.",
+    "image_url": "/images/profiles/1120577/company_image_1.webp"
+  },
+  {
+    "rank": 16,
+    "company": "The Progressive Corporation",
+    "industry": "Financial Services & Insurance",
+    "location": "Mayfield Village, OH, US",
+    "profile_url": "/certified-company/1000270",
+    "employee_quote": "Progressive is the most open company I have ever worked for. It is generous in all ways, truly. I could not be happier or more grateful than I am right now. Working for PGR is a joy in my life. I am proud of my work, recognized for my abilities with opportunities, and able to do meaningful work for solid pay. I tell everyone!",
+    "image_url": "/images/profiles/1000270/company_image_1.webp"
+  },
+  {
+    "rank": 17,
+    "company": "IHG Hotels & Resorts",
+    "industry": "Hospitality",
+    "location": "Atlanta, GA, US",
+    "profile_url": "/certified-company/1100102",
+    "employee_quote": "The entire team makes you feel welcome, as if you have just walked in the door at a family reunion. As if they've known you forever. There is ample training, and the ability to reach out just in case there is an item you don't understand. The company celebrates all wins across the board, and like they say, \"there's no win too small, or too big\". I received everything I could have needed before my official start date, and in addition, a fun welcome package as well with some adorable swag. It just feels good to be a part of a team like the one at IHG.",
+    "image_url": "/images/profiles/1100102/company_image_1.webp"
+  },
+  {
+    "rank": 18,
+    "company": "Camden Property Trust",
+    "industry": "Real Estate",
+    "location": "Houston, TX, US",
+    "profile_url": "/certified-company/1000048",
+    "employee_quote": "What makes Camden unique is the amount of opportunities that are given. If you feel you are wanting a career change such as maintenance to leasing they are willing to help you make that change and give you all the resources possible to help you succeed. The amount of support that is given by everyone is the reason I am still here today with Camden. They really value you as a worker and you are not just a \"number\" to them!",
+    "image_url": "/images/profiles/1000048/company_image_1.webp"
+  },
+  {
+    "rank": 19,
+    "company": "David Weekley Homes",
+    "industry": "Construction",
+    "location": "Houston, TX, US",
+    "profile_url": "/certified-company/1000071",
+    "employee_quote": "You are treated like a family member not a number. Birthdays, anniversaries, accomplishments are all recognized by management. Great for keeping morale at its highest.",
+    "image_url": "/images/profiles/1000071/company_image_1.webp"
+  },
+  {
+    "rank": 20,
+    "company": "PricewaterhouseCoopers LLP",
+    "industry": "Professional Services",
+    "location": "New York, NY, US",
+    "profile_url": "/certified-company/1000207",
+    "employee_quote": "I have worked for many companies during my career and wished I had joined PwC much earlier. Once I joined and realized what a great place to work PwC is, I knew I would never want to leave. The company overall is fantastic based on a very good benefits package, time off, training opportunities, respect for individuals/teams well-being and commitment to giving back. It can't get much better than that!",
+    "image_url": "/images/profiles/1000207/company_image_1.webp"
+  },
+  {
+    "rank": 21,
+    "company": "Plante Moran",
+    "industry": "Professional Services",
+    "location": "Southfield, MI, US",
+    "profile_url": "/certified-company/1000203",
+    "employee_quote": "This company is very flexible in allowing people to chart their own path. Many of our partners have changed roles, teams, and focus areas throughout their careers at the firm, and they are generally very open to staff doing the same. I think this is a unique benefit, particularly in the accounting/finance world.",
+    "image_url": "/images/profiles/1000203/company_image_1.webp"
+  },
+  {
+    "rank": 22,
+    "company": "Kimley-Horn",
+    "industry": "Professional Services",
+    "location": "Raleigh, NC, US",
+    "profile_url": "/certified-company/1000141",
+    "employee_quote": "Kimley-Horn is insanely good at adapting to the market in constantly changing circumstances. There are endless opportunities to work up and further your career. Kimley-Horn also does an excellent job at sharing profit with its employees and making sure we get the best possible benefits. For a fast-pace workplace, there are also a lot of opportunities to commune with one another and celebrate wins and holidays together.",
+    "image_url": "/images/profiles/1000141/company_image_1.webp"
+  },
+  {
+    "rank": 23,
+    "company": "The Cheesecake Factory Incorporated",
+    "industry": "Hospitality",
+    "location": "Calabasas Hills, CA, US",
+    "profile_url": "/certified-company/1100151",
+    "employee_quote": "In my short time of working for this company, it has been great to see the things we do each day to make it a great place to work for staff. The appreciation that we show for them on holidays, birthdays, anniversaries is amazing, as well as the appreciation week where we do things each day for the staff. It is also great to be encouraged to take time off for my personal life and not have work overlap into it on a consistent basis. While some days may be tough it is a great place to work and I am glad I took the leap to join this company!!!",
+    "image_url": "/images/profiles/1100151/company_image_1.webp"
+  },
+  {
+    "rank": 24,
+    "company": "Edward Jones",
+    "industry": "Financial Services & Insurance",
+    "location": "St. Louis , MO, US",
+    "profile_url": "/certified-company/1000348",
+    "employee_quote": "I love everything about this company! We are making differences in people's lives and that gives me great satisfaction. We have many opportunities to grow with our company, if we choose to do so, but are not looked down upon if we choose to stay in the position/level we are at. Our opinions are valued and we are asked to submit suggestions as often as we want...and they listen. I am proud to say I work here!",
+    "image_url": "/images/profiles/1000348/company_image_1.webp"
+  },
+  {
+    "rank": 25,
+    "company": "Dow",
+    "industry": "Manufacturing & Production",
+    "location": "Midland, MI, US",
+    "profile_url": "/certified-company/1000265",
+    "employee_quote": "Dow is a great place to work because I can always be myself, I have the opportunity to make a big difference not only to Dow's bottom line but also the community and environment around us. We have many great perks and benefits that are really not comparable to other companies. Dow is led by an outstanding CEO who I feel is really part of the reason that Dow is such a great place to work.",
+    "image_url": "/images/profiles/1000265/company_image_1.webp"
+  },
+  {
+    "rank": 26,
+    "company": "Comcast NBCUniversal",
+    "industry": "Telecommunications",
+    "location": "Philaelphia, PA, US",
+    "profile_url": "/certified-company/1000066",
+    "employee_quote": "The best part about working for this company that is very different from most is that they throw opportunity to you. If you vocalize your goals, your team supports that dream and does whatever they can to help you get there. I promoted in less than two years because my leaders knew my goals and loved my energy. If there are issues, the company takes proactive steps to facing those issues AND finding solutions to make the work experience good for everybody. I never feel left out, there is so much for me to do here, I still can't believe I have this much fun and call it work!",
+    "image_url": "/images/profiles/1000066/company_image_1.webp"
+  },
+  {
+    "rank": 27,
+    "company": "Deloitte",
+    "industry": "Professional Services",
+    "location": "New York, NY, US",
+    "profile_url": "/certified-company/1000072",
+    "employee_quote": "The people, short and simple. Deloitte attracts and hires people with great skills AND who will be part of a very large collaborative team. Our diversity drives great opportunities to learn about other cultures and people and we are encouraged to be our true selves. I have had many opportunities to learn and grow in my technical field, on my path to leadership, and personally through connections I have made here. The matrixed leadership structure here provides everyone with the chance to be seen and make a difference. I plan to retire from Deloitte sometime far in the future!",
+    "image_url": "/images/profiles/1000072/company_image_1.webp"
+  },
+  {
+    "rank": 28,
+    "company": "Nationwide Mutual Insurance Company",
+    "industry": "Financial Services & Insurance",
+    "location": "Columbus, OH, US",
+    "profile_url": "/certified-company/1100926",
+    "employee_quote": "I think the most unique thing about our company is that management is willing to listen to and take into consideration employee's feedback. I talk to people from other companies, and they don't feel like they are heard. I definitely feel like I am heard and am able to speak up in meetings or in a one on one to express my opinion and those opinions are considered in the course of decision making.",
+    "image_url": "/images/profiles/1100926/company_image_1.webp"
+  },
+  {
+    "rank": 29,
+    "company": "Rocket Companies",
+    "industry": "Real Estate",
+    "location": "Detroit, MI, US",
+    "profile_url": "/certified-company/1000213",
+    "employee_quote": "Rocket is a pillar in our community. Much of what we do directly impacts not just our team members but the city of Detroit and the people who live and work here. Our city would be vastly different if not for the contributions of Rocket Mortgage and our hard working team members.",
+    "image_url": "/images/profiles/1000213/company_image_1.webp"
+  },
+  {
+    "rank": 30,
+    "company": "ServiceNow",
+    "industry": "Information Technology",
+    "location": "Santa Clara, CA, US",
+    "profile_url": "/certified-company/1288947",
+    "employee_quote": "From day one the conversation came up about career growth, development and where I 'wanted to go'. The 'People Pact' is real - not just on a brochure but you actually can see the value in play among decisions, communications, approaches and benefits.",
+    "image_url": "/images/profiles/1288947/company_image_1.webp"
+  },
+  {
+    "rank": 31,
+    "company": "Salesforce",
+    "industry": "Information Technology",
+    "location": "San Francisco, CA, US",
+    "profile_url": "/certified-company/1000226",
+    "employee_quote": "Salesforce compensates their employees really well. Leadership makes us feel valued, and gives employees a lot of autonomy to be creative, lead initiatives and grow. I've admired and respected this company for years, but being a part of it has exceeded all of my expectations. They said the best part of working at Salesforce is the people, and boy, did they deliver! The people here are kind, genuine, smart as heck, and straight up fantastic human beings. My colleagues authenticity has been a breath of fresh air. It's rare to have colleagues who fight to help you grow, and I'm so appreciative to be surrounded by people like that.",
+    "image_url": "/images/profiles/1000226/company_image_1.webp"
+  },
+  {
+    "rank": 32,
+    "company": "MetLife",
+    "industry": "Financial Services & Insurance",
+    "location": "New York City, NY, US",
+    "profile_url": "/certified-company/1001394",
+    "employee_quote": "I feel that MetLife is the best place to work I ever had for my almost 30 year carrier. First it's great people - thoughtful, encouraging, supportive. I feel that the company always wants to do the right things. I love the fact that I am learning every day of my work. I feel safe and valued. I have exceptional managers.",
+    "image_url": "/images/profiles/1001394/company_image_1.webp"
+  },
+  {
+    "rank": 33,
+    "company": "Texas Health Resources, Inc.",
+    "industry": "Health Care",
+    "location": "Arlington, TX, US",
+    "profile_url": "/certified-company/1100607",
+    "employee_quote": "Not unique or unusual, just a consistent high level of caring for our communities and our employees! Could not be prouder to work here! Been here over 20 years and have never considered working for another organization.",
+    "image_url": "/images/profiles/1100607/company_image_1.webp"
+  },
+  {
+    "rank": 34,
+    "company": "Credit Acceptance",
+    "industry": "Financial Services & Insurance",
+    "location": "Southfield, MI, US",
+    "profile_url": "/certified-company/27",
+    "employee_quote": "Working here is like having 1000 or so brothers and sisters. Maybe cousins. Just last week we had our anniversary party and it felt more like a family reunion than a stuffy corporate function. A great example of this Family feeling is from the end of 2023. One of my team members lost her husband in a car accident and the CA family banded together to raise over $10k to help her with expenses and hardship. Just another reason I am proud to work here.",
+    "image_url": "/images/profiles/27/company_image_1.webp"
+  },
+  {
+    "rank": 35,
+    "company": "Ryan, LLC",
+    "industry": "Professional Services",
+    "location": "Dallas, TX, US",
+    "profile_url": "/certified-company/1000789",
+    "employee_quote": "Leadership is open to answering questions in front of the entire company. Great work life balance. Great opportunities to earn well with the bonus system. Great structure and very bright future for the company.",
+    "image_url": "/images/profiles/1000789/company_image_1.webp"
+  },
+  {
+    "rank": 36,
+    "company": "Capital One",
+    "industry": "Financial Services & Insurance",
+    "location": "McLean, VA, US",
+    "profile_url": "/certified-company/1000049",
+    "employee_quote": "I have been afforded the opportunity to be a remote worker for the past 17 years, long before Covid made working remotely the norm. I have been able to keep and grow my career at Capital One, and also maintain my family life as my husband's job moved us around the country over the years. I am forever grateful for this.",
+    "image_url": "/images/profiles/1000049/company_image_1.JPG"
+  },
+  {
+    "rank": 37,
+    "company": "Alston & Bird LLP",
+    "industry": "Professional Services",
+    "location": "Atlanta, GA, US",
+    "profile_url": "/certified-company/1000014",
+    "employee_quote": "We have a special combination of a work place that delivers incredible experiences, delivers excellent results, provides meaningful compensation and also has a fantastic culture. I have worked here almost 30 years and I still love my job. I feel lucky to live what I do and to respect and enjoy the colleagues I do it with.",
+    "image_url": "/images/profiles/1000014/company_image_1.webp"
+  },
+  {
+    "rank": 38,
+    "company": "Adobe Systems Incorporated",
+    "industry": "Information Technology",
+    "location": "San Jose, CA, US",
+    "profile_url": "/certified-company/1000005",
+    "employee_quote": "In my 9+ years at Adobe, I feel there's a genuine employees - top management connect on organization's vision and execution strategy and everyone is aligned to work together and push our organization to greater heights every year.",
+    "image_url": "/images/profiles/1000005/company_image_1.JPG"
+  },
+  {
+    "rank": 39,
+    "company": "Bain & Company, Inc.",
+    "industry": "Professional Services",
+    "location": "Boston, MA, US",
+    "profile_url": "/certified-company/1000027",
+    "employee_quote": "The people. Bain hires bright, authentic people who care deeply about their clients, their colleagues and their communities. The training is also exceptional. There are endless high quality opportunities to learn.",
+    "image_url": "/images/profiles/1000027/company_image_1.webp"
+  },
+  {
+    "rank": 40,
+    "company": "Sheetz, Inc",
+    "industry": "Retail",
+    "location": "Altoona, PA, US",
+    "profile_url": "/certified-company/1000419",
+    "employee_quote": "At Sheetz, the sense of family and community within the workplace is astounding. Whether I am talking with store employees, corporate support staff; middle-management to Directors, or above to executives, everyone in this company seems to embody the same core DNA values the organization holds dear. For me, being genuine is a very special and rare attribute for a company to possess, both inwardly towards employees, and externally to the communities we serve. Sheetz has that \"REALNESS\" in abundance!",
+    "image_url": "/images/profiles/1000419/company_image_1.webp"
+  },
+  {
+    "rank": 41,
+    "company": "AbbVie",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "location": "North Chicago, IL, US",
+    "profile_url": "/certified-company/1272994",
+    "employee_quote": "The appreciation that is shown to employees on a regular basis, by simple acts of recognition and/or treats given is so reassuring. I've never worked at a company that made me feel so welcome by everyone that I come in contact with. I am never made to feel like my questions or ideas aren't welcome to share, and I feel fully supported not only in doing my job, but assisting team members and/or working with other teams.",
+    "image_url": "/images/profiles/1272994/company_image_1.webp"
+  },
+  {
+    "rank": 42,
+    "company": "Publix Super Markets",
+    "industry": "Retail",
+    "location": "Lakeland, FL, US",
+    "profile_url": "/certified-company/1000405",
+    "employee_quote": "I love how we are owners of the company, and we have the opportunity to have stock. We also have equal opportunities for advance and raises. That is what makes this a great place to work!",
+    "image_url": "/images/profiles/1000405/company_image_1.webp"
+  },
+  {
+    "rank": 43,
+    "company": "Zillow Group",
+    "industry": "Real Estate",
+    "location": "Seattle, WA, US",
+    "profile_url": "/certified-company/5003128",
+    "employee_quote": "The benefits provided are excellent and better than any company I have ever worked for. We are given paid maternity leave and contributions towards our medical deductibles so we do not have to feel a burden when needing medical care. This company is fully remote and we are able to have a healthy work life balance and have the ability to move where we need to without being tied to an office.",
+    "image_url": "/images/profiles/5003128/company_image_1.webp"
+  },
+  {
+    "rank": 44,
+    "company": "Vertex Pharmaceuticals Inc",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "location": "Boston, MA, US",
+    "profile_url": "/certified-company/7007527",
+    "employee_quote": "This organization is like none other. Patients are at the center of everything we do. Secondly, the care and compassion we have for each other, both personal and professional is unprecedented in the industry. The executive team and management is always seeking ideas and ways to innovate process to better serve the patients and the team.",
+    "image_url": "/images/profiles/7007527/company_image_1.webp"
+  },
+  {
+    "rank": 45,
+    "company": "Tri Pointe Homes, Inc.",
+    "industry": "Construction",
+    "location": "Incline Village, NV, US",
+    "profile_url": "/certified-company/7010924",
+    "employee_quote": "Tri Pointe Homes is different. Our culture and drive for success are unique and a result of a shared passion. We believe in building homes that can change lives and feel our roles really contribute to that change. Our leadership is skilled, forward thinking, and employee centric. Just to name a few things.",
+    "image_url": "/images/profiles/7010924/company_image_1.webp"
+  },
+  {
+    "rank": 46,
+    "company": "Elevance Health",
+    "industry": "Health Care",
+    "location": "Indianapolis, IN, US",
+    "profile_url": "/certified-company/7011008",
+    "employee_quote": "I find it unique that my company helps us when we're experiencing financial setbacks. It makes me feel like, I don't have to go outside of the company for anything. I really appreciate the childcare reimbursement. The fact that the company gives us options for a food card, childcare, or transportation speaks volumes! Who does that? They all want us to succeed and be happy not only at work but at home as well! I love it here and I plan to be here for a long time!",
+    "image_url": "/images/profiles/7011008/company_image_1.webp"
+  },
+  {
+    "rank": 47,
+    "company": "PulteGroup, Inc.",
+    "industry": "Construction",
+    "location": "Atlanta, GA, US",
+    "profile_url": "/certified-company/1274415",
+    "employee_quote": "This company provides opportunities for employees to grow and develop to be the best employee that they can be. PulteGroup has built a great work culture and team that empowers its employees. Some examples are team building events, great communication, and holiday events.",
+    "image_url": "/images/profiles/1274415/company_image_1.webp"
+  },
+  {
+    "rank": 48,
+    "company": "Robert Half Inc",
+    "industry": "Professional Services",
+    "location": "Menlo Park, CA, US",
+    "profile_url": "/certified-company/1000216",
+    "employee_quote": "The company does a really good job putting people first, helping them take care of their whole selves and families. The company culture is very positive and shows day-in and day-out, even though hard projects or tough times.",
+    "image_url": "/images/profiles/1000216/company_image_1.webp"
+  },
+  {
+    "rank": 49,
+    "company": "OneDigital",
+    "industry": "Financial Services & Insurance",
+    "location": "Atlanta, GA, US",
+    "profile_url": "/certified-company/7003787",
+    "employee_quote": "The people are amazing, I've never experienced a work atmosphere with this type of positivity and support from co-workers - it's inspiring. The work-life balance is fantastic. Being able to work a hybrid schedule has been life-changing for my mental and physical health. I could not be happier to work for OneDigital!",
+    "image_url": "/images/profiles/7003787/company_image_1.webp"
+  },
+  {
+    "rank": 50,
+    "company": "Trek Bicycle",
+    "industry": "Retail",
+    "location": "Waterloo, WI, US",
+    "profile_url": "/certified-company/1001042",
+    "employee_quote": "Management has been the fairest that I've ever experienced, my ideas feel heard, and I feel like an important part of the team. This aspect is something that cannot be said about other positions and companies in my past.",
+    "image_url": "/images/profiles/1001042/company_image_1.webp"
+  },
+  {
+    "rank": 51,
+    "company": "Panda Restaurant Group Inc.",
+    "industry": "Hospitality",
+    "location": "Rosemead, CA, US",
+    "profile_url": "/certified-company/1001712",
+    "employee_quote": "I trust my managers and appreciate their honesty and transparency. They have our back and really care about us as individuals.",
+    "image_url": "/images/profiles/1001712/company_image_1.webp"
+  },
+  {
+    "rank": 52,
+    "company": "EY",
+    "industry": "Professional Services",
+    "location": "New York, NY, US",
+    "profile_url": "/certified-company/1000090",
+    "employee_quote": "Above all else, the genuine care that my mentors and direct supervisors have shown (and continue to demonstrate) me across my various responsibilities makes me feel valued and celebrated for who I am, supported when times are tough (either at work or at home), and confident that this is, and hopefully always will be, the best place I could ever consider working. Coupling this experience with an environment committed to teaming and collaborating and winning means that the day-to-day experience I have feeds my personal and professional purpose and inspires me to achieve a more selfless approach toward enabling a \"greater good\" for the organization and its people.",
+    "image_url": "/images/profiles/1000090/company_image_1.webp"
+  },
+  {
+    "rank": 53,
+    "company": "Bank of America",
+    "industry": "Financial Services & Insurance",
+    "location": "Charlotte, NC, US",
+    "profile_url": "/certified-company/1120196",
+    "employee_quote": "There are endless opportunities for a long term career at Bank of America. People are encouraged to explore all the areas of the bank and find a home where they most enjoy the work. The top down support on this theme is incredible and people are always looking for ways to support those around them.",
+    "image_url": "/images/profiles/1120196/company_image_1.webp"
+  },
+  {
+    "rank": 54,
+    "company": "Stryker",
+    "industry": "Manufacturing & Production",
+    "location": "Portage, MI, US",
+    "profile_url": "/certified-company/1001307",
+    "employee_quote": "My manager and the people I work with truly care about the success of our business and well-being of one another. It’s an honor and privilege to work at Stryker and I’m proud to be a part of this wonderful company!",
+    "image_url": "/images/profiles/1001307/company_image_1.webp"
+  },
+  {
+    "rank": 55,
+    "company": "Target Corporation",
+    "industry": "Retail",
+    "location": "Minneapolis, MN, US",
+    "profile_url": "/certified-company/1100147",
+    "employee_quote": "The sense of connection this company has with its employees is truly unique. The level of care that Target shows through benefits offerings, community involvement, and developmental investment is unparalleled in the industry.",
+    "image_url": "/images/profiles/1100147/company_image_1.webp"
+  },
+  {
+    "rank": 56,
+    "company": "Ally Financial Inc.",
+    "industry": "Financial Services & Insurance",
+    "location": "Detroit, MI, US",
+    "profile_url": "/certified-company/7002273",
+    "employee_quote": "One of the things that is unique to Ally is its ownership mentality. Everyone here regardless of level are owners and that makes a big difference in terms of the level of care each employee brings.",
+    "image_url": "/images/profiles/7002273/company_image_1.webp"
+  },
+  {
+    "rank": 57,
+    "company": "DHL Express",
+    "industry": "Transportation",
+    "location": "Plantation, FL, US",
+    "profile_url": "/certified-company/1120060",
+    "employee_quote": "DHL is a global company but has found the ability to make me feel like I'm an important part of our success. They ensure that I balance work and home by not allowing me to work too much. They take an interest in my development and encourage me in continuous growth. All of these facts make me eager to do my best every day and to do my part.",
+    "image_url": "/images/profiles/1120060/company_image_1.webp"
+  },
+  {
+    "rank": 58,
+    "company": "Box, Inc.",
+    "industry": "Information Technology",
+    "location": "Redwood City, CA, US",
+    "profile_url": "/certified-company/1315502",
+    "employee_quote": "The work life balance this company supports and provides is absolutely out of this world! I would never be able to take care of my family the way I do if it wasn't for Box being so open and understanding. That in itself puts this company above the rest, 100%. To add to that, my coworkers are absolutely amazing. Combine a company who cares and a great team and you truly cannot beat it.",
+    "image_url": "/images/profiles/1315502/company_image_1.webp"
+  },
+  {
+    "rank": 59,
+    "company": "CrowdStrike",
+    "industry": "Information Technology",
+    "location": "Austin, TX, US",
+    "profile_url": "/certified-company/1368367",
+    "employee_quote": "A combination of a lot of things. For starters, despite it being mainly remote work, I feel connected to the people and feel like we all bring something to the table. Everyone is inclusive. The main thing for me though is the level of work-life balance I can achieve. This is the only company I've worked for where I am expected to take time off and actually disconnect from the job while on time off. Being able to happily live my life outside of work motivates me to give my 200% when on the job, and I LOVE MY JOB!",
+    "image_url": "/images/profiles/1368367/company_image_1.webp"
+  },
+  {
+    "rank": 60,
+    "company": "Experian",
+    "industry": "Information Technology",
+    "location": "Costa Mesa, CA, US",
+    "profile_url": "/certified-company/104566870",
+    "employee_quote": "The people. They are all unique and unusual in their own way, yet we all get along so well. We have a \"one mindset\" and when we are together, we become unified. There is an energy when you are in the room with fellow Experian folks that ignites excitement and energy.",
+    "image_url": "/images/profiles/104566870/company_image_1.webp"
+  },
+  {
+    "rank": 61,
+    "company": "Mastercard",
+    "industry": "Financial Services & Insurance",
+    "location": "Purchase, NY, US",
+    "profile_url": "/certified-company/1001388",
+    "employee_quote": "I've been here a short time but the benefits that this company provides are, in my view, abnormally good for a USA-based company. The camaraderie and collaboration between individuals, teams, business units and divisions are all attributes that I had not experienced to this high/positive level within other USA-based companies I worked for. In my many years, this is comfortably the best organization that I've been a part of.",
+    "image_url": "/images/profiles/1001388/company_image_1.webp"
+  },
+  {
+    "rank": 62,
+    "company": "First American Financial Corporation",
+    "industry": "Financial Services & Insurance",
+    "location": "Santa Ana, CA, US",
+    "profile_url": "/certified-company/1243853",
+    "employee_quote": "The sense of TEAM through the entire organization, between and across departments is exemplary. If anyone needs input from another department, it is readily given, we are all the same team. Often, the inquiry to another department is not only addressed, but the replying department takes ownership of the inquiry which helps our customers receive the best answers in the most rapid timeline.",
+    "image_url": "/images/profiles/1243853/company_image_1.webp"
+  },
+  {
+    "rank": 63,
+    "company": "The Breakers Palm Beach",
+    "industry": "Hospitality",
+    "location": "Palm Beach, FL, US",
+    "profile_url": "/certified-company/1100642",
+    "employee_quote": "I appreciate the true family atmosphere. Alongside company success The Breakers wants me to succeed in my personal life and be able to balance both to be a well-rounded team and family member. They make you feel so comfortable, just like being in a big work family.",
+    "image_url": "/images/profiles/1100642/company_image_1.webp"
+  },
+  {
+    "rank": 64,
+    "company": "RSM US LLP",
+    "industry": "Professional Services",
+    "location": "Chicago, IL, US",
+    "profile_url": "/certified-company/1204801",
+    "employee_quote": "Although I only started 5 months ago, everyone who I have interacted with in the company has gone above and beyond to be welcoming. The people of RSM is what makes it so special in my opinion, there is no such thing as a dumb question and managers are understanding that there is a learning curve to a lot of the work. Overall I feel like the company is invested in me as a professional and as an individual, and is an outstanding culture to be a part of.",
+    "image_url": "/images/profiles/1204801/company_image_1.webp"
+  },
+  {
+    "rank": 65,
+    "company": "New American Funding",
+    "industry": "Financial Services & Insurance",
+    "location": "Tustin, CA, US",
+    "profile_url": "/certified-company/1244198",
+    "employee_quote": "I love the diversity and support that management gives all of us no matter what color we are, who we love, what religion we are, or what are ethnic background is. We are continually growing our lending in so many diverse areas through specialized groups and I just love seeing the open minded leadership and acceptance of all within our company and how we can do the save for customers of all races as well!!",
+    "image_url": "/images/profiles/1244198/company_image_1.webp"
+  },
+  {
+    "rank": 66,
+    "company": "Hyatt Hotels Corporation",
+    "industry": "Hospitality",
+    "location": "Chicago, IL, US",
+    "profile_url": "/certified-company/1000120",
+    "employee_quote": "I've had other companies SAY they care about me as a person, but Hyatt makes me FEEL it. I lost a beloved pet just a couple of months ago and the cards, check-ins, and just understanding that I needed a remote day to spend one more day with my pet went a very long way. I was never made to feel like he was just a pet, they understood he was family and did all they could to make sure I was okay.",
+    "image_url": "/images/profiles/1000120/company_image_1.webp"
+  },
+  {
+    "rank": 67,
+    "company": "Modern Technology Solutions, Inc.",
+    "industry": "Professional Services",
+    "location": "Alexandria , VA, US",
+    "profile_url": "/certified-company/1100715",
+    "employee_quote": "MTSI is 100% employee owned built on our first core value that \"Employees come First.\" All of our employees are invested in the success of the company and leadership really cares about of our workforce, personally and professionally.",
+    "image_url": "/images/profiles/1100715/company_image_1.webp"
+  },
+  {
+    "rank": 68,
+    "company": "Merck",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "location": "Rahway, NJ, US",
+    "profile_url": "/certified-company/1000976",
+    "employee_quote": "I feel this company really invests in their people. I started out 25 years ago on a temporary assignment that was to last 4 days. As long as you have the drive and determination, your career at this company can make an impact and can grow significantly. They provide many tools and opportunities, but it is up to the employee to leverage them. I have a disabled husband who I have to take care of financially and physically and this company has always been flexible and supportive which allows me to maintain a great work/life balance and still efficiently get work done. They also support innovation and I feel new ideas are encouraged and I have seen impact of change initiatives by either myself or my team have brought up.",
+    "image_url": "/images/profiles/1000976/company_image_1.webp"
+  },
+  {
+    "rank": 69,
+    "company": "CarMax",
+    "industry": "Retail",
+    "location": "Richmond, VA, US",
+    "profile_url": "/certified-company/1000333",
+    "employee_quote": "CarMax is very much driven to create a welcoming and associate-first culture. I am confident that company leadership wants to create a company and business model that is ethical and respects customers and employees, instead of chasing short term profitability.",
+    "image_url": "/images/profiles/1000333/company_image_1.webp"
+  },
+  {
+    "rank": 70,
+    "company": "Baptist Health South Florida",
+    "industry": "Health Care",
+    "location": "Coral Gables, FL, US",
+    "profile_url": "/certified-company/1000318",
+    "employee_quote": "They are constantly highlighting and showcasing examples of all staff members, from dietary services and environmental services, not just executives and clinical staff. It shows how it takes a team to care for our communities we serve.",
+    "image_url": "/images/profiles/1000318/company_image_1.webp"
+  },
+  {
+    "rank": 71,
+    "company": "BDO USA",
+    "industry": "Professional Services",
+    "location": "Chicago, IL, US",
+    "profile_url": "/certified-company/1100046",
+    "employee_quote": "The flexibility they provide to employees. They do not micromanage where the work gets done. When/where we work is our choice as long as we communicate with our teams and the work is completed and the deliverable is of quality and the clients are happy. I also enjoy the experiences the firm gives us to connect, whether its happy hours, social gatherings, or off-site trainings.",
+    "image_url": "/images/profiles/1100046/company_image_1.webp"
+  },
+  {
+    "rank": 72,
+    "company": "Hackensack Meridian Health",
+    "industry": "Health Care",
+    "location": "Edison, NJ, US",
+    "profile_url": "/certified-company/5003493",
+    "employee_quote": "It's wonderful! My team, my Manager, being able to work from home 3 days a week, being trusted and not micro-managed. I am 51 and hope to retire here!",
+    "image_url": "/images/profiles/5003493/company_image_1.webp"
+  },
+  {
+    "rank": 73,
+    "company": "United Therapeutics Corporation",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "location": "Silver Spring, MD, US",
+    "profile_url": "/certified-company/1244053",
+    "employee_quote": "This is the first job in the pharmaceutical industry I've had that encourages having a healthy work/life balance. It is wonderful to see my manager helping in our lab when we are shorthanded. Everyone is committed to a common goal and we are encouraged to have a friendly/casual atmosphere.",
+    "image_url": "/images/profiles/1244053/company_image_1.webp"
+  },
+  {
+    "rank": 74,
+    "company": "Navy Federal Credit Union",
+    "industry": "Financial Services & Insurance",
+    "location": "Vienna, VA, US",
+    "profile_url": "/certified-company/1000984",
+    "employee_quote": "Navy Federal has a clear mission which motivates me to do my best every day. We are here to serve our members and be their most trusted financial institution. Our members serve in the Armed Forces of the United States of America and protect the freedom of our country.",
+    "image_url": "/images/profiles/1000984/company_image_1.webp"
+  },
+  {
+    "rank": 75,
+    "company": "Hilcorp Energy Company",
+    "industry": "Manufacturing & Production",
+    "location": "Houston, TX, US",
+    "profile_url": "/certified-company/1001155",
+    "employee_quote": "I love the culture here. By that, I mean that I love the humbleness of everyone from top down, and the team player attitude that everyone embraces. You would not know whether a person was a CEO or an admin assistant here, because everyone treats each other as equals. We check our attitudes and egos at the door. That means a lot to me.",
+    "image_url": "/images/profiles/1001155/company_image_1.webp"
+  },
+  {
+    "rank": 76,
+    "company": "Visa",
+    "industry": "Financial Services & Insurance",
+    "location": "San Francisco, CA, US",
+    "profile_url": "/certified-company/1281076",
+    "employee_quote": "Visa is an amazing company that takes care of employees, clients and the community. It's a socially responsible and inclusive environment workplace.",
+    "image_url": "/images/profiles/1281076/company_image_1.webp"
+  },
+  {
+    "rank": 77,
+    "company": "CHG Healthcare Services",
+    "industry": "Health Care",
+    "location": "Midvale, UT, US",
+    "profile_url": "/certified-company/1000918",
+    "employee_quote": "Unique to say the least- CHG has got the formula to build a great company through the support and encouragement they consistently deliver to their employees! I've never heard of a  company prior to transferring to CHG that has so many celebratory events, weeks dedicated to highlighting the work we do and all the parties, lunches and social events to ensure everyone feels special and important. It definitely makes you want to achieve goals and do well in your position to contribute to the greater good.",
+    "image_url": "/images/profiles/1000918/company_image_1.webp"
+  },
+  {
+    "rank": 78,
+    "company": "Intuit Inc.",
+    "industry": "Information Technology",
+    "location": "Mountain View, CA, US",
+    "profile_url": "/certified-company/1000127",
+    "employee_quote": "Intuit's core values provide an excellent framework for developing a great work place. The idea that the stakeholders being Employees, Customers and Shareholders and focusing on upholding its commitment to all three is quintessential.",
+    "image_url": "/images/profiles/1000127/company_image_1.webp"
+  },
+  {
+    "rank": 79,
+    "company": "IGS Energy",
+    "industry": "Other",
+    "location": "Dublin, OH, US",
+    "profile_url": "/certified-company/7022562",
+    "employee_quote": "The willingness of other employees to help, collaborate, and the expertise at IGS is outstanding. I also appreciate the focus on strategy that has developed over the past couple of years, as I think that has supported alignment across teams. I highly value the flexible work culture and the ability to maintain a healthy work/life balance.",
+    "image_url": "/images/profiles/7022562/company_image_1.webp"
+  },
+  {
+    "rank": 80,
+    "company": "Workiva",
+    "industry": "Information Technology",
+    "location": "Ames, IA, US",
+    "profile_url": "/certified-company/1383563",
+    "employee_quote": "I love how Workiva truly listens to its employees feedback and takes action on it. We take pride in our culture, our benefits are great, PTO is great, and the Workiva leadership is always making sure our company is up to date on the latest and greatest. They adapt to what employees are seeking today vs 10 years ago. etc. They don't make you feel guilty for taking time off, they respect and trust you will get your job done and done well.",
+    "image_url": "/images/profiles/1383563/company_image_1.webp"
+  },
+  {
+    "rank": 81,
+    "company": "KPMG LLP",
+    "industry": "Professional Services",
+    "location": "New York, NY, US",
+    "profile_url": "/certified-company/1000377",
+    "employee_quote": "Exceptional organization that has provided extensive opportunities and the support required to be successful. My mentors are invested in my professional development and truly care about me as an individual.",
+    "image_url": "/images/profiles/1000377/company_image_1.webp"
+  },
+  {
+    "rank": 82,
+    "company": "Protiviti",
+    "industry": "Professional Services",
+    "location": "Menlo Park, CA, US",
+    "profile_url": "/certified-company/1271638",
+    "employee_quote": "Coming from the corporate world, I found the org structure to be rather unique, no direct reporting lines outside of the project support model, rather we have career and executive advisors. We also have the freedom to engage in projects outside of our skill area or industry which helps us get a better understanding of the depth and breadth of Protiviti's service offerings.",
+    "image_url": "/images/profiles/1271638/company_image_1.webp"
+  },
+  {
+    "rank": 83,
+    "company": "Atlantic Health System",
+    "industry": "Health Care",
+    "location": "Morristown, NJ, US",
+    "profile_url": "/certified-company/1000317",
+    "employee_quote": "This company truly cares about its employees. It strongly encourages and supports professional development and provides amazing opportunities for growth. I will never work for any other company !",
+    "image_url": "/images/profiles/1000317/company_image_1.webp"
+  },
+  {
+    "rank": 84,
+    "company": "HPE",
+    "industry": "Information Technology",
+    "location": "Houston, TX, US",
+    "profile_url": "/certified-company/1203525",
+    "employee_quote": "My upper level management is exceptionally good, especially my immediate manager. The entire team is extremely supportive and invested in you learning and performing well. It is one of the healthiest work environments I have ever worked in. I would work here just for that reason alone.",
+    "image_url": "/images/profiles/1203525/company_image_1.webp"
+  },
+  {
+    "rank": 85,
+    "company": "The Wonderful Company",
+    "industry": "Manufacturing & Production",
+    "location": "Los Angeles, CA, US",
+    "profile_url": "/certified-company/1394865",
+    "employee_quote": "They not only celebrate, but encourage continuous improvement, meaning everyone at every and any level is trained in tools that can be used to help improve processes to make our jobs better, more streamlined, more efficient, etc. Also, the company cares about our health and well-being and even rewards us financially for taking care of ourselves (from getting our physicals to getting our steps in, etc.).",
+    "image_url": "/images/profiles/1394865/company_image_1.webp"
+  },
+  {
+    "rank": 86,
+    "company": "Veterans United Home Loans",
+    "industry": "Financial Services & Insurance",
+    "location": "Columbia, MO, US",
+    "profile_url": "/certified-company/1205414",
+    "employee_quote": "The way they constantly promote community, unity, and help everyone be the best version of themselves. Small groups, The faith team, to the way they structure company events. I have never worked anywhere that comes close to doing it as well as VU.",
+    "image_url": "/images/profiles/1205414/company_image_1.webp"
+  },
+  {
+    "rank": 87,
+    "company": "Allianz Life",
+    "industry": "Financial Services & Insurance",
+    "location": "Minneapolis, MN, US",
+    "profile_url": "/certified-company/102037035",
+    "employee_quote": "Allianz Life is one of the most employee friendly companies I have ever worked for. There are so many opportunities to get involved through our ERGs, True Balance and community involvement to name a few. The benefits and campus amenities are amazing.",
+    "image_url": "/images/profiles/102037035/company_image_1.webp"
+  },
+  {
+    "rank": 88,
+    "company": "SCAN Health Plan",
+    "industry": "Aging Services",
+    "location": "Long Beach, CA, US",
+    "profile_url": "/certified-company/7026065",
+    "employee_quote": "Really take pride in the work that we do. Appreciate the extra recharge days and benefits that are offered to employees. Also nice to have a work-life balance and be encouraged to take PTO.",
+    "image_url": "/images/profiles/7026065/company_image_1.webp"
+  },
+  {
+    "rank": 89,
+    "company": "Perkins Coie LLP",
+    "industry": "Professional Services",
+    "location": "Seattle, WA, US",
+    "profile_url": "/certified-company/1000199",
+    "employee_quote": "When I came to the company, I was assigned a mentor who was helpful and welcoming. She told me people would continue to be friendly and that it wasn't just for show to a new employee. I have been so impressed with how true this has been. I have never worked for such a welcoming place. I feel like my ideas are heard, and I just want to do better and offer more.",
+    "image_url": "/images/profiles/1000199/company_image_1.webp"
+  },
+  {
+    "rank": 90,
+    "company": "HP Inc.",
+    "industry": "Information Technology",
+    "location": "Palo Alto, CA, US",
+    "profile_url": "/certified-company/1000114",
+    "employee_quote": "HP really values diversity and inclusion, and because of this there is a real sense of community among the employees here. People are kind and caring, and it really fosters a positive working environment.",
+    "image_url": "/images/profiles/1000114/company_image_1.webp"
+  },
+  {
+    "rank": 91,
+    "company": "PCL Construction",
+    "industry": "Construction",
+    "location": "Denver, CO, US",
+    "profile_url": "/certified-company/1000196",
+    "employee_quote": "The people make this company a great place to work. Inclusion, diversity, and acceptance all play a vital role in making PCL a great place to work. Having a voice and feeling like you belong gives you a sense of pride and allows you to feel valued as an employee.",
+    "image_url": "/images/profiles/1000196/company_image_1.webp"
+  },
+  {
+    "rank": 92,
+    "company": "TP (including Alliance One, Health Advocate, Language Line Solutions, PSG Global Solutions, Senture, and TLScontact)",
+    "industry": "Professional Services",
+    "location": "Salt Lake City, UT, US",
+    "profile_url": "/certified-company/1121655",
+    "employee_quote": "What's unique for me compared to previous workplaces, is we are genuinely encouraged to be our authentic selves and not only to speak up with ideas to improve our processes, but see those ideas be heard by leadership and implemented even if on a trial basis to evaluate the benefit. You feel heard!",
+    "image_url": "/images/profiles/1121655/company_image_1.webp"
+  },
+  {
+    "rank": 93,
+    "company": "Wellstar Health System",
+    "industry": "Health Care",
+    "location": "Marietta, GA, US",
+    "profile_url": "/certified-company/1100176",
+    "employee_quote": "This company show they generally care about their customers and employees. I love working here with the staff who cares for each other and is willing to help each other get the job done. This is truly a great place to work.",
+    "image_url": "/images/profiles/1100176/company_image_1.webp"
+  },
+  {
+    "rank": 94,
+    "company": "Hilti, Inc",
+    "industry": "Construction",
+    "location": "Plano, TX, US",
+    "profile_url": "/certified-company/1000115",
+    "employee_quote": "I experience a great sense of trust and empowerment as an employee. This workplace is truly exceptional, and I receive substantial support from our leaders and managers.",
+    "image_url": "/images/profiles/1000115/company_image_1.webp"
+  },
+  {
+    "rank": 95,
+    "company": "Atlassian, Inc.",
+    "industry": "Information Technology",
+    "location": "San Francisco, CA, US",
+    "profile_url": "/certified-company/1100234",
+    "employee_quote": "This is - by far - the best place I have ever worked. There is no comparison. The way people genuinely live the values and care for each other, the benefits and perks that are offered, the way staff are listened to and taken care of, the culture of inclusivity and authenticity. I feel extremely proud and privileged to work here and call myself an Atlassian, and I don't take a single day for granted, even after a year. Thank you for the chance to share my experience.",
+    "image_url": "/images/profiles/1100234/company_image_1.webp"
+  },
+  {
+    "rank": 96,
+    "company": "Brightview Senior Living",
+    "industry": "Aging Services",
+    "location": "Baltimore, MD, US",
+    "profile_url": "/certified-company/7012830",
+    "employee_quote": "I think all of the benefits and resources are pretty unique. For any situation, it may be work related or not, there is peace of mind knowing that Brightview can find a way to get what is needed. The most unique in my opinion is the total compensation contributions and what Brightview will do for an associate's family if they pass away. 401k plans, Trust program ,etc. there are truly so many Brightview offers to better our future! I couldn't name another place to work that will make you feel as good as you do working for Brightview. It's really a special vibe!",
+    "image_url": "/images/profiles/7012830/company_image_1.webp"
+  },
+  {
+    "rank": 97,
+    "company": "Scripps Health",
+    "industry": "Health Care",
+    "location": "San Diego, CA, US",
+    "profile_url": "/certified-company/1000234",
+    "employee_quote": "The employees are supportive and genuinely want to see others succeed in their role within the organization. I'm grateful to all those who welcomed me on my first day of work and continue to help me grow.",
+    "image_url": "/images/profiles/1000234/company_image_1.webp"
+  },
+  {
+    "rank": 98,
+    "company": "Encore",
+    "industry": "Hospitality",
+    "location": "Schiller Park, IL, US",
+    "profile_url": "/certified-company/7039707",
+    "employee_quote": "I have never worked in an organization as accepting and supportive of new ideas, personal growth, and diversity and inclusion. The values really are believed in and aspired to by Executives.",
+    "image_url": "/images/profiles/7039707/company_image_1.webp"
+  },
+  {
+    "rank": 99,
+    "company": "Jackson Healthcare",
+    "industry": "Health Care",
+    "location": "Alpharetta, GA, US",
+    "profile_url": "/certified-company/7003343",
+    "employee_quote": "Fantastic culture across the board, care for people's opinions and well-being, great perks and events, awesome campus that's well managed and always clean, great leadership that genuinely values and cares for employees.",
+    "image_url": "/images/profiles/7003343/company_image_1.webp"
+  },
+  {
+    "rank": 100,
+    "company": "Walmart Inc.",
+    "industry": "Retail",
+    "location": "Bentonville, AR, US",
+    "profile_url": "/certified-company/1120506",
+    "employee_quote": "Opportunities such as the recent Leadership Forums. This one knocked it out of the park! Also, mental health benefits - thank you for being a company that values the well-being of all associates and providing resources that aim to remove the stigma associated with mental illness and providing benefits for treatment.",
+    "image_url": "/images/profiles/1120506/company_image_1.webp"
+  }
+]
